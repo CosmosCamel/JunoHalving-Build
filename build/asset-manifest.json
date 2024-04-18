@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b01e342c.css",
+    "main.js": "/static/js/main.0fd56eef.js",
+    "static/media/juno-bg.svg": "/static/media/juno-bg.431d02eaef6a569ca668.svg",
+    "static/media/juno-small-bg.svg": "/static/media/juno-small-bg.7c816f339d980852d28b.svg",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Orbitron-Regular.ttf": "/static/media/Orbitron-Regular.453377cb91a4554c36ce.ttf",
+    "static/media/Orbitron-Medium.ttf": "/static/media/Orbitron-Medium.9a70c40dbb1533188a39.ttf",
+    "static/media/Orbitron-ExtraBold.ttf": "/static/media/Orbitron-ExtraBold.f5f4155aa99e5cff44bd.ttf",
+    "static/media/juno-leaf.svg": "/static/media/juno-leaf.194aac5cec461efa0805.svg",
+    "index.html": "/index.html",
+    "static/media/dropdown.svg": "/static/media/dropdown.274a8b33e5eab5711e1f215e2a5b9d02.svg",
+    "main.b01e342c.css.map": "/static/css/main.b01e342c.css.map",
+    "main.0fd56eef.js.map": "/static/js/main.0fd56eef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01e342c.css",
+    "static/js/main.0fd56eef.js"
+  ]
+}
